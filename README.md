@@ -8,11 +8,11 @@ ESADS is a structural analysis and design software developed based on the Ethiop
 
 
 
-The software has the following key features: 
+The software has the following key features for each components: 
 
 - Efficeint desing procedure 
-- Shows intermediate outputs 
-- Export the final rebar details to AutoCAD 
+- Shows intermediate design outputs 
+- Exports the final rebar details to AutoCAD
 
 
 The implemented numerical details of the program for each structural component are described in the report. Please check `DOC/ESADS_Final_Report`. 
