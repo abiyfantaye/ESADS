@@ -15,7 +15,7 @@ The software has the following key features:
 
 The implemented numerical details of the program for each structural component are described in the report. Please check `DOC/ESADS_Final_Report`. 
 
-![screenShot](Resources/ESDADS_StartPage.PNG)
+![screenShot](Resources/ESADS_StartPage.PNG)
 
 #### Contributors:
 1. Abiy Melaku
