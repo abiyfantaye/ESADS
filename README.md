@@ -15,7 +15,7 @@ The software has the following key features for each components:
 - Exports the final rebar details to AutoCAD
 
 
-The implemented numerical details of the program for each structural component are described in the report. Please check `DOC/ESADS_Final_Report`. 
+The implemented numerical details of the program for each structural component are described in the report found in `DOC/ESADS_Final_Report`. 
 
 ![screenShot](Resources/ESADS_StartPage.PNG)
 
