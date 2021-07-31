@@ -3,7 +3,9 @@ ESADS is a structural analysis and design software developed based on the Ethiop
 
 - Beam
 - Biaxial columns 
+- Slab(not fully functional)
 - Foundation footings  
+
 
 
 The software has the following key features: 
